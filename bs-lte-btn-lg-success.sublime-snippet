@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+		<button type="button" class="btn btn-block btn-success btn-lg">Success</button>
+]]></content>
+	<tabTrigger>bs-lte-btn-lg-success</tabTrigger>
+</snippet>

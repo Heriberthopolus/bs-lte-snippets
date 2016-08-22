@@ -1,0 +1,15 @@
+<snippet>
+	<content><![CDATA[
+		<div class="form-group">
+		  <label>Mascara Telefonica:</label>
+		  <div class="input-group">
+		    <div class="input-group-addon">
+		      <i class="fa fa-phone"></i>
+		    </div>
+		    <input type="text" class="form-control" data-inputmask="&quot;mask&quot;: &quot;(999) 999-9999&quot;" data-mask="">
+		  </div>
+		  <!-- /.input group -->
+		</div>
+]]></content>
+	<tabTrigger>bs-lte-input-mask</tabTrigger>
+</snippet>

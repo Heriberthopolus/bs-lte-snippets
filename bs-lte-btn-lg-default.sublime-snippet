@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+		<button type="button" class="btn btn-block btn-default btn-lg">Default</button>
+]]></content>
+	<tabTrigger>bs-lte-btn-lg-default</tabTrigger>
+</snippet>

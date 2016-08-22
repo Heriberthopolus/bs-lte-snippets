@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+		<button type="button" class="btn btn-block btn-warning btn-lg">Warning</button>
+]]></content>
+	<tabTrigger>bs-lte-btn-lg-warning</tabTrigger>
+</snippet>
